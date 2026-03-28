@@ -1,19 +1,19 @@
 {
-    "team_name": "Team Name",
+    "team_name": "Bounty-Hunters",
     "students": [
         {
-            "student_id": "k00000000",
-            "first_name": "First",
-            "last_name": "Last",
-            "email": "first.last@mail.com",
-            "github_user": "mygitusername"
+            "student_id": "k12343666",
+            "first_name": "Waji Ul Hassan",
+            "last_name": "Syed",
+            "email": "syedwajiulhassan715@gmail.com",
+            "github_user": "syedwajiulhassan715-rgb"
         },
         {
-            "student_id": "k00000000",
-            "first_name": "First",
-            "last_name": "Last",
-            "email": "first.last@mail.com",
-            "github_user": "mygitusername"
+            "student_id": "k12343661",
+            "first_name": "Saqib Ali",
+            "last_name": "Khan",
+            "email": "saaqikhan00987@gmail.com",
+            "github_user": "saqib00987"
         },
         {
             "student_id": "k00000000",
