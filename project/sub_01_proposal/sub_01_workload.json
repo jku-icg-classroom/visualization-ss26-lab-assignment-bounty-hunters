@@ -1,16 +1,16 @@
 {
     "submission_id": 1,
     "submission_type": "proposal",
-    "team_name": "Team Name",
+    "team_name": "Bounty Hunters",
     "students": [
         {
-            "first_name": "First",
-            "last_name": "Last",
+            "first_name": "Waji Ul Hassan",
+            "last_name": "Syed",
             "workload": 0.25
         },
         {
-            "first_name": "First",
-            "last_name": "Last",
+            "first_name": "Saqib Ali",
+            "last_name": "Khan",
             "workload": 0.25
         },
         {
