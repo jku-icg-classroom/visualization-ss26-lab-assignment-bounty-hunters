@@ -1,27 +1,27 @@
 {
     "submission_id": 2,
     "submission_type": "intermediate",
-    "team_name": "Team Name",
+    "team_name": "Bounty Hunters",
     "students": [
         {
-            "first_name": "First",
-            "last_name": "Last",
-            "workload": 0.25
+            "first_name": "Waji Ul Hassan",
+            "last_name": "Syed",
+            "workload": 0.35
+        },
+        {
+            "first_name": "Saqib Ali",
+            "last_name": "Khan",
+            "workload": 0.35
+        },
+        {
+            "first_name": "Syed",
+            "last_name": "Raffey Uz Zaman",
+            "workload": 0.30
         },
         {
             "first_name": "First",
             "last_name": "Last",
-            "workload": 0.25
-        },
-        {
-            "first_name": "First",
-            "last_name": "Last",
-            "workload": 0.25
-        },
-        {
-            "first_name": "First",
-            "last_name": "Last",
-            "workload": 0.25
+            "workload": 0.0
         }
     ]
 }
