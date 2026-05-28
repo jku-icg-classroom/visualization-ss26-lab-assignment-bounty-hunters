@@ -1,0 +1,12 @@
+Dear team Bounty Hunters,
+
+please find your points and feedback for Submission 1 below. Note that these grades are considered final and subject to change only in cases of severe misunderstandings. As we cannot monitor any GitHub threads, please direct any questions to the course email vis-course@jku.at.
+
+Best regards,
+the Visualization UE Team
+
+-----
+
+Submission 1: 4/5 points
+
+Hypotheses/Tasks -- Solution mentioned in RQ (Major; Across all four entries, the focus shifts from stating concise hypotheses/tasks to describing how they will be tested or visualized, making the section less aligned with the requested format.)
