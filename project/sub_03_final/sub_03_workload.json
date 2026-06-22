@@ -5,12 +5,12 @@
     "students": [ {
             "first_name": "Waji Ul Hassan",
             "last_name": "Syed",
-            "workload": 0.20
+            "workload": 0.35
         },
         {
             "first_name": "Saqib Ali",
             "last_name": "Khan",
-            "workload": 0.60
+            "workload": 0.45
         },
         {
             "first_name": "Syed",
